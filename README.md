@@ -1,4 +1,4 @@
-# Geometric deep lean learning Evaluation using a Twitter social bnetwork
+# Geometric deep lean learning Evaluation using a Twitter social network
 
 The goal of this work is to evaluate a deep learning algorithm that has been designed to predict
 the topological evolution of dynamic complex non–Euclidean graphs with discrete–time in which links are
