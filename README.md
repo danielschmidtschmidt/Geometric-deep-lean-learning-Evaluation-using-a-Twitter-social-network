@@ -1,1 +1,1 @@
-# Geometric-deep-lean-learning-Evaluation-using-a-Twitter-social-network
+# Geometric deep lean learning Evaluation using a Twitter social bnetwork
